@@ -1,0 +1,17 @@
+{
+  "name": "genpark-cocke-younger-kasami-cyk-pcfg-parser-skill",
+  "version": "1.0.0",
+  "description": "Autonomous Agent CYK (Cocke-Younger-Kasami) Probabilistic Context-Free Grammar (PCFG) Parser",
+  "entry_point": "client.py",
+  "example": "example_usage.py",
+  "mcp_server": "mcp_server.py",
+  "dependencies": [],
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "nlp",
+    "cyk-parser",
+    "pcfg",
+    "syntactic-parsing"
+  ]
+}
